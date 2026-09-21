@@ -1,5 +1,4 @@
 # Flores.activity4
-<!DOCTYPE html>
 <html lang="en">
 <head>
    
