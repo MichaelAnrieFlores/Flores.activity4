@@ -1,4 +1,5 @@
-# Flores.activity4
+Flores.activity4
+<!DOCTYPE html> 
 <html lang="en">
 <head>
    
@@ -33,7 +34,5 @@
 </body>
 </html>
 
-         
-   
          
    
